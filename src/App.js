@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-       Avanti Kantumuchu
+        Hello from AWS CI/CD, Avanti Kantumuchu
       </header>
     </div>
   );
