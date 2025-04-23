@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Hello again from AWS CI/CD, Avanti
+        Avanti
       </header>
     </div>
   );
